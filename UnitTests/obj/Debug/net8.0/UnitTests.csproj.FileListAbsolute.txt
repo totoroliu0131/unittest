@@ -1,0 +1,13 @@
+D:\playground\unittest\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
+D:\playground\unittest\UnitTests\bin\Debug\net8.0\UnitTests.dll
+D:\playground\unittest\UnitTests\bin\Debug\net8.0\UnitTests.pdb
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.csproj.AssemblyReference.cache
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfoInputs.cache
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfo.cs
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CoreCompileInputs.cache
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.sourcelink.json
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.dll
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\refint\UnitTests.dll
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\UnitTests.pdb
+D:\playground\unittest\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
